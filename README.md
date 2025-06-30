@@ -49,4 +49,6 @@ The main goals of this project are:
 ├── dashboard/
 │   └── accident_dashboard.twbx
 └── README.md
+```
+![](screenshot.png)
 
